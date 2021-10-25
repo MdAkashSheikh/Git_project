@@ -4,5 +4,8 @@ public class Main {
         System.out.println("Hello git!");
 
         System.out.println("Hello bara");
+
+        int a = 9;
+        System.out.println(a);
     }
 }
